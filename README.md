@@ -22,3 +22,18 @@ This application allows a user to upload an image, display a preview in a modal,
 3. [Pillow 6.1.0](https://pillow.readthedocs.io/) Python Imaging Library for Python Programming language that adds support for opening, manipulating, and saving many different image file formats.
 4. [jQuery 3.1.1](https://jquery.com/) JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax.
 5. [Cropper](https://fengyuanchen.github.io/cropperjs/) A simple jQuery cropping plugin.
+
+## FEEDBACK
+Your opinion matters. 
+Have some ideas how to improve my product?
+Ping me at https://kwairore@gmail.com
+
+## Contact Information
+Email - (https://kwairore@gmail.com)
+
+Github username - [lwairore](https://www.github.com/lwairore)
+
+
+MIT License
+
+Copyright (c) 2019 Karangu Lucas Wairore
