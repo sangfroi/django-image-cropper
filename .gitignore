@@ -1,3 +1,4 @@
 virtual/
 .vscode/
 cropper/__pycache__/
+resize/__pycache__/
