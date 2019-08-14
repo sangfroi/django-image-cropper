@@ -24,7 +24,8 @@
 
 {% block content %}
     <form action="POST" enctype="multipart/form-data" id="formUpload">
-    
+        {% csrf_token %}
+        {{form}}
     </form>
 
     <div class="modal fade" id="modalCrop">
