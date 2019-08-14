@@ -58,6 +58,10 @@
 </div>
 
 <div class="row" style="margin-top: 20px;">
-
+    {% for photo in photos %}
+        <div class="col-sm-4 col-md-3">
+            <img src="{{photo.file.url}}" alt="" class="thumbnail">
+        </div>
+    {% endfor %}
 </div>
 {% endblock %}
