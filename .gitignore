@@ -5,3 +5,5 @@ resize/__pycache__/
 resize/migrations/
 media/*
 clone/*
+secrets/
+staticfiles/
