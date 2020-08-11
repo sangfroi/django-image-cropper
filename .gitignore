@@ -3,3 +3,4 @@ virtual/
 cropper/__pycache__/
 resize/__pycache__/
 resize/migrations/
+media/*
