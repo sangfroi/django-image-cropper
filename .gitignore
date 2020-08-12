@@ -7,3 +7,4 @@ media/*
 clone/*
 secrets/
 staticfiles/
+.env
