@@ -8,3 +8,4 @@ clone/*
 secrets/
 staticfiles/
 .env
+*.sh
