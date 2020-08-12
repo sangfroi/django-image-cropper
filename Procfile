@@ -1,0 +1,1 @@
+web: gunicorn cropper.wsgi --log-file -

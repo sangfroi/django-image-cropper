@@ -1,20 +1,22 @@
-# Crop Image
+# Django Image Cropper
 Cropping images is a fairly common use in a Web application. For example, some applications let you upload a profile picture. In addition, it usually also let you crop and resize the image for a better result. 
 
-This application allows a user to upload an image, display a preview in a modal, crop the image and finally upload it and save it in the server.
+Django Image Cropper application allows a user to upload an image, display a preview in a modal, crop the image and finally upload it and save it in the server.
 
-## Browsers supported 
-1. [Google Chrome](https://en.wikipedia.org/wiki/Google_Chrome)
-2. [Mozilla Firefox](https://en.wikipedia.org/wiki/Mozilla_Firefox)
-3. [Internet Exploer](https://en.wikipedia.org/wiki/Internet_Explorer)
-4. [Safari](https://en.wikipedia.org/wiki/Safari_(web_browser))
-5. [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge)
-6. [Opera](https://en.wikipedia.org/wiki/Opera_(web_browser))
-7. [UC Browser](https://en.wikipedia.org/wiki/UC_Browser)
-8. [Yandex Browser](https://en.wikipedia.org/wiki/Yandex_Browser)
-9. [Chromium](https://en.wikipedia.org/wiki/Chromium_(web_browser))
-10. [Sogou Explorer](https://en.wikipedia.org/wiki/Sogou)
-11. [QQ Browser](https://en.wikipedia.org/w/index.php?title=QQ_Browser&action=edit&redlink=1)
+# Demo
+Here is a working live demo: https://django-image-cropper.uc.r.appspot.com 
+
+## Site
+### Landing Page
+The [Landing Page](https://django-image-cropper.uc.r.appspot.com) displays all the cropped images.
+
+### Image Cropping Modal
+Django Image Cropper uses a regular [Bootstrap]() modal to:
+1. Preview the selected image
+1. Enable the user to interact with the [Cropper](https://github.com/fengyuanchen/cropper/blob/master/README.md) tool, *blue rectangle*
+
+![Image shows the Cropper tool rendered in a normal Bootstrap modal, in action]()
+
 
 ## Technologies used
 1. [Python 3.7](https://www.python.org/) General purpose programming language that can be used for developing both desktop and web applications.
